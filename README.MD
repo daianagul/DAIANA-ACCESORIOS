@@ -1,6 +1,6 @@
 Daiana Accesorios
 
-Este es el proyecto final del curso de FRONT-END JS . La página web representa mi emprendimiento de moños y accesorios hechos a mano. La página está estructurada con HTML semántico y utiliza las etiquetas < header >, < main >, y < footer > para organizar el contenido.
+Este es el proyecto final del curso de FRONT-END JS . La página web representa mi emprendimiento de moños y accesorios hechos a mano. La página está estructurada con HTML semántico y utiliza las etiquetas <header>, <main>, y <footer> para organizar el contenido.
 
 Selecciones del sitio
 - Inicio
